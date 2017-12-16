@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: ../Harvard.bst
+Database file #1: ../references.bib
+Name 1 in "Iacob, C., and Faily, S." has a comma at the end for entry iacob17
+while executing---line 1291 of file ../Harvard.bst
+Name 1 in "Iacob, C., and Faily, S." has a comma at the end for entry iacob17
+while executing---line 1291 of file ../Harvard.bst
+Name 1 in "Iacob, C., and Faily, S." has a comma at the end for entry iacob17
+while executing---line 1357 of file ../Harvard.bst
+Name 1 in "Iacob, C., and Faily, S." has a comma at the end for entry iacob17
+while executing---line 1375 of file ../Harvard.bst
+Warning--empty pages in iacob17
+You've used 3 entries,
+            2638 wiz_defined-function locations,
+            580 strings with 5015 characters,
+and the built_in function-call counts, 1518 in all, are:
+= -- 128
+> -- 44
+< -- 4
++ -- 17
+- -- 15
+* -- 113
+:= -- 230
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 23
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 117
+empty$ -- 122
+format.name$ -- 26
+if$ -- 303
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 24
+newline$ -- 15
+num.names$ -- 12
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 56
+swap$ -- 54
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 27
+warning$ -- 1
+while$ -- 7
+width$ -- 0
+write$ -- 40
+(There were 4 error messages)
