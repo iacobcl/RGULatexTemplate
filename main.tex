@@ -15,8 +15,9 @@
 \usepackage{tikz}
 \usepackage{helvet}
 \usepackage{hyphenat}
+\usepackage{url}
 \renewcommand{\familydefault}{\sfdefault}
-\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE, RO]{\thepage}
@@ -27,6 +28,7 @@
 \bibpunct{(}{)}{,}{a}{}{ }
 \graphicspath{ {images/}{appendices/} }
 \footskip = 15mm
+
 
 \begin{document}
 
@@ -76,8 +78,8 @@ Wordcount goes here
 
 \input{chapters/chapter05}
 
-\input{chapters/Conclusion}
-\nocite{*} %Take this out if you don't want it to show all the references and only the ones you've referenced 
+\input{chapters/conclusion}
+\nocite{*} %Take this out if you don't want it to show all the references and only the ones you've referenced
 \bibliography{references}
 
 
