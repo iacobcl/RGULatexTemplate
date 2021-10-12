@@ -28,7 +28,7 @@
  % or:                  named.sty
  % The form of the bibitem entries is
  %   \bibitem[\protect\citeauthoryear{Jones et al.}{1990}]{key}...
- %---------------------------------------------------------------------%
+ %---------------------------------------------------------------------%%
 
 ENTRY
   { address
